@@ -3,6 +3,14 @@ Simple Text-Based Crazy 8's (Uno) Game in Python based on Object Oriented Progra
 
 Play Crazy 8's with up to 3 computers
 
+## How to Run Python Script
+
+1. Have Python installed on your computer
+2. Open the command prompt and navigate to the folder that contains the python script Crazy8s.py
+3. Execute one of the following commands: ``python Crazy8s.py``, ``python3 Crazy8s.py``, or ``py Crazy8s.py`` (Depends on what works for your system)
+4. Program will start
+5. Have fun :-)
+
 ## How to Play Crazy Eights:
 
 Each player is dealt 5 cards. The player that reaches 0 cards first wins.
